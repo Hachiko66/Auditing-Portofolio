@@ -33,7 +33,7 @@ Let's connect! Here is my social:
 
 | First Flight                                                              | Description          | Findings | Rank | Report\*                                                                                                                      |
 | ------------------------------------------------------------------------- | -------------------- | -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------- |
-| (https://github.com/Kiinzu/ODD-NI-bank                                     ) | Defi,Flashloan,Bank | 1H       | 2nd  | [📄](https://github.com/farismln/ODD-NI-bank/blob/audit-data/audit-data/H-02.md)                                                              |
+| (https://github.com/Kiinzu/ODD-NI-bank                                     ) | Defi,Flashloan,Bank | 1H       | 1st  | [📄](https://github.com/farismln/ODD-NI-bank/blob/audit-data/audit-data/H-02.md)                                                              |
                                                                                                                  
 
 \*for First Flight, I only link the one that got selected for Final Report
