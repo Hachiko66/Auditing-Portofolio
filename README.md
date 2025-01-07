@@ -4,7 +4,8 @@ This is my Audit portfolio of contest I've been done and some work in Web3 Secur
 
 ## About Me
 
-I am an independent Web3 security researcher.
+Hello I'am Yuyun Gunawan , I am New in Web3 and i am still learning and grinding about Smart Contract Development 
+and Smart Contract Security on Cyfrin Updraft
 
 I am relative new on this space, here is my timeline:
 
