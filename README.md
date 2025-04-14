@@ -23,6 +23,14 @@ Let's connect! Here is my social:
 
 ## Highlights
 
+
+### Hackathon ( SmartContract Dev )
+
+| Project Name                                                         | Description                  | Chain    | Source                                     | Project Demo                                                            |
+| -------------------------------------------------------------------- | ---------------------------- | -------- | -------------------------------------------  -------------------------------------------------------------------------
+|    IDRW Stable Coin Defi ( Alchenomy Agent                           | Defi Lending and Borrowing   | Manta    | https://github.com/Hachiko66/IDRWhackathon |
+|    NoPeyPey                                                          | Defi Buy Now Pay Never       | Educhain | https://github.com/Hachiko66/NoPeyPey      | https://www.hackquest.io/projects/EDU-Chain-Hackathon-Semester-3-EduZero|
+
 ### Public Contest
 
 | Protocol                                                             | Description             | Findings | Rank | Report                                                                    |
